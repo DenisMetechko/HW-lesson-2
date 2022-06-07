@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+/* .container {
+  max-width: 1170px;
+  background-color: greenyellow;
+  padding: 30px;
+  margin: auto;
+} */
+/* .header-card {
+  background-color: aliceblue;
+  padding: 2px;
+  margin: auto;
+}
+.header-card-content {
+  background-color: greenyellow;
+  padding: 20px;
+} */
+.header-card-text {
+  max-width: 1170px;
+  background-color: aquamarine;
+  padding: 40px;
+  margin: auto;
+  outline: 2px solid rgb(255, 255, 255);
+  outline-offset: -20px;
+}
